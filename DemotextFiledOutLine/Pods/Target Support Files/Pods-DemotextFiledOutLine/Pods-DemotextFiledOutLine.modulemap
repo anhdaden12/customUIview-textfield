@@ -1,0 +1,6 @@
+framework module Pods_DemotextFiledOutLine {
+  umbrella header "Pods-DemotextFiledOutLine-umbrella.h"
+
+  export *
+  module * { export * }
+}
